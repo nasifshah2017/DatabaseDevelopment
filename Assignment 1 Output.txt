@@ -1,0 +1,33 @@
+Please enter the dept. code, section number, course number and the year
+CSCI
+20
+275
+2014
+     2014         CSCI    20
+--------------------------------------------------------------------------------
+
+     ID          NAMES                        MARKS
+  201103340 Katherine Gentle                   66
+  201207188 Kelly MacEachen                   74
+  201200596 Meghan Parrott                   84
+  201201206 Keenan Fidler                   84
+  201204124 Kathy Sheaves                   68
+  201406419 Youjun Smith                   7
+  201201865 Lawrence Mireku                   50
+  201204981 Krista Vernest                   72
+  201101435 Jennifer MacDonald                   90
+  201108390 Joseph Binda                   87
+  201207954 Matthew Robertson                   80
+  201105065 James Avery                   81
+  201205835 Meghan Hayward                   86
+  201203500 Keltie Wark                   84
+  201206397 Kyra Hillier                   70
+  201106740 Jane Savage                   89
+  201208710 Lisa MacDonald                   69
+  201202722 Margaret Petite                   66
+
+
+ The Average = 72.6111
+
+Process returned 0 (0x0)   execution time : 10.763 s
+Press any key to continue.

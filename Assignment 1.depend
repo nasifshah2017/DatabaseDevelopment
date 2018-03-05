@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1516279540 source:h:\csci 275\assignment 1\assignment 1\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstdlib>
+	<cstring>
+

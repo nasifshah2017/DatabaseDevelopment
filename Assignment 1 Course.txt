@@ -1,0 +1,731 @@
+APEX,100,Academic Program of Excellence
+ANTH,110,Intro to Anthropology
+ANTH,215,Archaeology & Native Peoples
+ANTH,260,Evolution of Civilization
+ANTH,303,Anthropological Theory
+ANTH,304,Principles & Meth of Fieldwork
+ANTH,315,Health & Medicine
+ANTH,335,Cultural & Social Anthropology
+ANTH,360,Archaeology of Anc Near East
+ANTH,383,First Nations/Mi'kmaq Studies
+ANTH,418,Area & Regional Studies
+AQUA,100,Intro to Aquatic Resources
+AQUA,450,Sen Seminar Aquatic Resources
+ART,100,Drawing
+ART,115,Intro to Design
+ART,125,Materials & Methods
+ART,141,History of Art I
+ART,142,History of Art II
+ART,145,Introduction to Color
+ART,200,Painting I
+ART,202,Scenic Design & Stage Lighting
+ART,203,Stage & Costume Design
+ART,211,Stained Glass Studio I
+ART,212,Stained Glass Studio II
+ART,221,Batik Studio
+ART,222,Weaving Studio
+ART,231,Etching Studio I
+ART,232,Etching Studio II
+ART,240,Pastels
+ART,255,L'scape & Floral in Watercolor
+ART,258,Impressionism
+ART,260,20th Century: Modern Art
+ART,320,Painting II
+ART,343,Issues in Cdn Art Through WWII
+ART,346,Botanical Arts: Drawing
+ART,347,Botanical Arts: Painting
+ART,350,Anatomy for the Artist
+ART,370,Italian Renaissance Art
+ART,372,Northern Renaissance
+ART,385,Advanced Drawing I
+ART,386,Advanced Drawing III
+ART,387,Cartooning & Humorous Illustra
+BIOL,105,Basic Cell Biology
+BIOL,111,Intro Cell Biology
+BIOL,112,Diversity of Life
+BIOL,115,Microbes in Human Biology
+BIOL,201,Animal Biology
+BIOL,202,Plant Biology
+BIOL,203,Intro Ecology
+BIOL,204,Intro Genetics
+BIOL,207,Intro to Natural History
+BIOL,220,Current Topics in Biol (Arts)
+BIOL,251,Human Anatomy & Physiology I
+BIOL,252,Human Anatomy & Physiology II
+BIOL,285,Paleontology: History of Life
+BIOL,301,Form & Function in Animals
+BIOL,302,Evolution
+BIOL,303,Human Biomechanics
+BIOL,304,Vertebrate Physiology
+BIOL,307,Field Biology
+BIOL,311,Marine Biology I
+BIOL,312,Marine Biology II
+BIOL,315,Intro Microbiology
+BIOL,317,Molecular Biology
+BIOL,320,Biology of Cancer
+BIOL,321,Env Ecol of Mariculture
+BIOL,322,Marine Pollution
+BIOL,325,Physiological Ecology
+BIOL,331,Biostatistics
+BIOL,343,Comp Anatomy of Vertebrates
+BIOL,345,Communities & Ecosystems
+BIOL,373,Wildlife Ecology
+BIOL,385,Animal Behavior
+BIOL,390,Plant Physiology
+BIOL,395,Cell Biology
+BIOL,401,Comp Physiology & Biophysics
+BIOL,403,The Physiology of Sensations
+BIOL,407,Integrated Resource Management
+BIOL,417,Microbial Pathogenics
+BIOL,425,Advanced Cell Biology
+BIOL,435,Advanced Embryology
+BIOL,450,Behavioral Neuroscience
+BIOL,470,Environmental Microbiology
+BIOL,472,Freshwater Ecology
+BIOL,474,Soil Ecology
+BIOL,475,Accessing Biological Literatur
+BIOL,485,Experimental Research
+BIOL,491,Senior Seminar
+BIOL,493,Honours Thesis
+BIOL,499,Applied Biomechanics
+BSAD,101,Intro to Business
+BSAD,102,Business Decision Making
+BSAD,221,Intro Financial Accounting
+BSAD,223,Intro Managerial Accounting
+BSAD,231,Foundations of Marketing
+BSAD,261,Foundations of Management
+BSAD,319,Mgmt of Information Technology
+BSAD,321,Intermed Managerial Account I
+BSAD,322,Intermed Managerial Account II
+BSAD,323,Intermed Financ Accounting I
+BSAD,324,Intermed Financ Accounting II
+BSAD,331,Marketing Management
+BSAD,332,Marketing Research
+BSAD,333,Prof Sales: Bldg Relationships
+BSAD,341,Intro Financial Management
+BSAD,342,Cases in Financial Management
+BSAD,343,Cdn Securities & Markets
+BSAD,345,Personal Financial Management
+BSAD,351,Business Law
+BSAD,356,Entrepre & Venture Creation
+BSAD,357,International Business Mgmt
+BSAD,358,Business & Society
+BSAD,361,Organizational Analysis
+BSAD,362,Career Dynamics
+BSAD,363,Human Resource Development
+BSAD,381,Operations Management
+BSAD,391,Found of Management Research
+BSAD,415,Electronic Business
+BSAD,416,Project Management & Practice
+BSAD,424,Financial Accounting Theory
+BSAD,425,Auditing
+BSAD,426,Adv Financial Accounting I
+BSAD,428,Adv Financial Accounting II
+BSAD,431,Services & Non-Profit Mrkting
+BSAD,432,Retailing
+BSAD,434,Marketing Communications
+BSAD,435,Sales Force Management
+BSAD,443,Investment Management
+BSAD,446,Investment Portfolio Mgmt
+BSAD,448,International Financial Mgmt
+BSAD,454,Taxation
+BSAD,457,Community Enterprise Develpmnt
+BSAD,458,Research Proj: Enterprise Dev
+BSAD,461,Leadership
+BSAD,464,Negotiation & Conflict Mgmt
+BSAD,466,Lesson in Leadership
+BSAD,471,Business Policy
+BSAD,472,"""Bus"
+BSAD,492,Consulting Project for Majors
+BSAD,494,Honours Thesis
+CATH,200,Intro to Catholic Traditions
+CATH,241,Sin & Salvation Catholic Trad
+CATH,245,Christ in the Catholic Trad
+CELT,100,Scottish Gaelic
+CELT,110,Irish Gaelic
+CELT,120,Celtic Literature
+CELT,131,Celtic Civilization I
+CELT,132,Celtic Civilization II
+CELT,200,Second Year Scottish Gaelic
+CELT,300,Third Year Gaelic
+CELT,333,Scottish Gael: Old World & New
+CELT,340,Scottish Gaelic Bardic Poetry
+CELT,350,Folklore of Ireland & Scotland
+CELT,361,Selected Topics I
+CELT,362,Selected Topics II
+CELT,420,Seminar Scott Gaelic Imm Lit
+CELT,490,Honours Thesis
+CHEM,100,General Chemistry
+CHEM,120,Principles of Chemistry
+CHEM,150,General & Biological Chemistry
+CHEM,220,Organic Chemistry
+CHEM,222,Organic Chemistry II
+CHEM,225,Principles of Organic Chem
+CHEM,231,Physical Chemistry I
+CHEM,232,Physical Chemistry II
+CHEM,245,Basic Inorganic Chemistry
+CHEM,255,Intro Biochemistry
+CHEM,265,Basic Analytical Chemistry
+CHEM,321,Intermediate Organic Chemistry
+CHEM,322,Heterocyclic Chemistry
+CHEM,330,Physical Chemistry III
+CHEM,341,Inorganic & Theoret Chem I
+CHEM,342,Inorganic & Theoret Chem II
+CHEM,360,Instrumental Analytical Chem
+CHEM,375,Chemical Informatics
+CHEM,381,Industrial Chemistry
+CHEM,391,Chemistry Seminar I
+CHEM,411,Computational Chemistry
+CHEM,420,Phys Organ Chem & Spectroscopy
+CHEM,434,Colloids & Interfaces
+CHEM,442,Bio-Inorganic Chemistry
+CHEM,450,Bio-Organic Chemistry
+CHEM,455,Medicinal Chemistry
+CHEM,461,Topics Instrument & Analysis
+CHEM,491,Chemistry Seminar II
+CHEM,493,Honours Thesis
+CLAS,110,Latin I
+CLAS,240,Greek Lit in Translation
+CSCI,100,Introduction to Computing
+CSCI,125,Computer Programming in C
+CSCI,161,Intro to Programming
+CSCI,162,Programming & Data Structures
+CSCI,235,Micro-Computers in Science
+CSCI,254,Object-Oriented Methodologies
+CSCI,256,Data Struct & Algorithm Analy
+CSCI,275,Database Management Systems
+CSCI,335,Operations Research
+CSCI,356,Theory of Computing
+CSCI,375,Operating Systems
+CSCI,383,Object-Oriented Prgm & Design
+CSCI,455,Parallel Computing
+CSCI,355,Algorithm Analysis
+CSCI,467,Computer & Network Security
+CSCI,483,Interactive Programming Java
+CSCI,485,Software Design
+CSCI,487,Org of Programming Languages
+CSCI,491,Senior Seminar
+CSCI,493,Senior Honours Thesis
+DEVS,200,Intro to International Develop
+DEVS,300,Globalization & Development
+DEVS,310,Internship II
+DEVS,405,Community-Based Dev
+ESCI,170,Understanding the Earth
+ESCI,171,Understanding the Earth I
+ESCI,172,Understanding the Earth II
+ESCI,201,Crystal Chem & Mineralogy
+ESCI,202,Intro to Igneous & Metamorphic
+ESCI,215,Sedimentology & Stratigraphy
+ESCI,216,Earth History
+ESCI,245,Structural Geology
+ESCI,246,Quantitative Methods Earth Sci
+ESCI,271,Environmental Earth Science
+ESCI,272,Global Change & Climate System
+ESCI,273,Health & the Environment
+ESCI,274,Health Impacts of Global Chng
+ESCI,275,Geological Field Methods
+ESCI,276,Envir Earth Sci Field Course
+ESCI,285,Paleontology: History of Life
+ESCI,301,Genesis of Igneous Rocks
+ESCI,305,Geochemistry of Natural Waters
+ESCI,365,Geomorphol & Quanternary Geol
+ESCI,366,Hydrology
+ESCI,386,Oceanography
+ESCI,426,Ore Petrogenesis
+ESCI,435,Adv Structure & Tectonics
+ESCI,446,Adv Sediment & Basin Analysis
+ESCI,465,Hydrogeology
+ESCI,471,Geographic Info Systems
+ESCI,472,Ocean-Atmosphere Interactions
+ESCI,476,Adv Geological Field Methods
+ESCI,491,Senior Seminar
+ESCI,493,Senior Dissertation
+ECON,100,Intro Economics
+ECON,102,Intro Economics II
+ECON,221,Intermediate Macroeconomics I
+ECON,222,Intermediate Macroeconomics II
+ECON,241,Cdn Econ Policy & Problems
+ECON,251,Intermd Microeconomic Theory I
+ECON,252,Interm Microeconomic Theory II
+ECON,281,Environmental Economics
+ECON,305,Economic Development I
+ECON,306,Economic Development II
+ECON,312,Industrial Organization
+ECON,315,19-20th Century Cdn Econ Hist
+ECON,330,"""Money"
+ECON,370,Econometric Methods
+ECON,391,Public Finance I
+ECON,490,Seminar
+ENGR,121,Calculus I for Engineers
+ENGR,122,Calculus II for Engineers
+ENGR,133,Engr Design & Graphics I
+ENGR,136,Statics
+ENGR,144,Computer Programming for ENGR
+ENGR,221,Differential Equation for Engr
+ENGR,222,Calculus III for Engineers
+ENGR,223,Linear Algebra for Engineers
+ENGR,224,Probability & Statistics
+ENGR,227,Fundamentals of Chem Engr
+ENGR,228,Industrial Chemistry
+ENGR,231,Dynamics
+ENGR,233,Thermodynamics
+ENGR,234,Fluid Mechanics
+ENGR,235,Strength of Materials
+ENGR,236,Engr Design & Graphics II
+ENGR,237,Basic Electric Circuits Theory
+ENGR,238,Digital Logic
+ENGR,242,Engineering Economics
+ENGR,244,Technical Communications
+ENGR,245,Data Structures/Numerical Meth
+ENGR,246,Circuit Analysis
+ENGR,248,Electrical Engineering Design
+ENGR,252,System Analysis
+ENGL,100,Intro Survey Literature in Eng
+ENGL,202,Intro to Theatre & Acting I
+ENGL,203,Intro to Theatre & Acting II
+ENGL,207,World Masterpieces II
+ENGL,209,Narrative in Fiction & Film
+ENGL,222,Creative Non-Fiction/Memoir
+ENGL,229,Women in English Literature
+ENGL,231,Intro to Creative Writing
+ENGL,247,Post-Colonial Literature
+ENGL,250,Survey of 20th Century Lit
+ENGL,265,Canadian Poetry & Prose
+ENGL,270,Romantic Gothic: Poetry & Fict
+ENGL,271,Gothic Fiction: Novel
+ENGL,305,Later Elizabethan Renaissance
+ENGL,317,Cultural Theory
+ENGL,329,Studies in Women Writers
+ENGL,331,Intermediate Creative Writing
+ENGL,340,Shakespeare
+ENGL,341,Elizabethan Shakespeare
+ENGL,343,19th-Century American Poetry
+ENGL,345,Theory & Criticism to 1798
+ENGL,347,African-Canadian Literature
+ENGL,350,Modern British Fiction
+ENGL,355,Restor & 18th C Drama & Prose
+ENGL,356,18th Century Novel & Poetry
+ENGL,367,The Canadian Novel
+ENGL,370,English Romantic Literature
+ENGL,376,Modern American Fiction
+ENGL,377,19th-Century Fiction
+ENGL,420,Seminar: Modern Poetry
+ENGL,445,Seminar: Critical Theory
+ENGL,480,Seminar: Spenser & Milton
+ENGL,496,Research Methods in Eng Lit
+ENGL,497,Advanced Major Thesis
+ENGL,498,Honours Thesis
+EXEL,100,Excel
+FREN,110,French Language I
+FREN,115,French Language II
+FREN,215,French Language III
+FREN,216,Survey of French Literature
+FREN,220,Language & Culture
+FREN,300,French Humanism
+FREN,314,Effective Writing in French
+FREN,316,17th Century French Literature
+FREN,321,French Cinema
+FREN,336,19th Century French Literature
+FREN,346,20th Century French Literature
+FREN,376,Acadian Literature
+FREN,456,Literary Criticism
+GERM,100,First Year German
+GERM,200,Second Year German
+HIST,100,Western Civilization
+HIST,110,Global History Since 1300
+HIST,200,History of Canada
+HIST,202,Western Canada: The Prairies
+HIST,204,Western Canada: BC
+HIST,209,Maritimes 1500-1950
+HIST,230,Growth of Western Society
+HIST,242,United States to 1865
+HIST,244,The United States after 1865
+HIST,255,Colonial Latin America
+HIST,256,Modern Latin America
+HIST,260,Europe: 19th & 20th Centuries
+HIST,308,Canadian Women's History
+HIST,309,Working Class in Cdn Society
+HIST,310,Cdn Immigration & Ethnic Hist
+HIST,314,Canada & The Cold War Era
+HIST,326,History of Cuba
+HIST,330,Medieval Soc & the Individual
+HIST,337,Modern Mexico
+HIST,343,Place of Race in United States
+HIST,351,US Immigration & Ethnicity
+HIST,362,European Fascism
+HIST,364,The Holocaust
+HIST,372,Imperial China
+HIST,374,20th Century China
+HIST,383,Victorian Britain
+HIST,384,20th Century Britain
+HIST,390,World War I
+HIST,398,"""Sexuality"
+HIST,400,Seminar on Atlantic Canada
+HIST,460,Seminar: Modern European
+HIST,490,Thesis
+HKIN,105,Soccer
+HKIN,115,Principles of Human Movement
+HKIN,205,Basketball II
+HKIN,215,Intro to Motor Learning
+HKIN,222,Care/Prevent Athletic Injuries
+HKIN,226,Personal Health and Wellness
+HKIN,236,Foundation Sport/Exercise Psyc
+HKIN,262,Performance Enhancing Supps
+HKIN,301,Elementary Statistics
+HKIN,321,Adv Care/Prevent Ath Injuries
+HKIN,331,The Sociology of Sport
+HKIN,332,Gender Sport/Physical Activity
+HKIN,334,Coach Leadership & Planning
+HKIN,352,History of Sport
+HKIN,353,Metaphysical Foundations
+HKIN,354,Ethics & Sport
+HKIN,365,Exercise Physiology
+HKIN,376,Biomechanics
+HKIN,385,Adapted Physical Education
+HKIN,392,Exercise Metabolism
+HKIN,396,Research Methods
+HKIN,397,Qualitative Research Methods
+HKIN,425,Child Growth & Development
+HKIN,426,Health Education
+HKIN,441,Org/Admin Phys Activ/Sport
+HKIN,445,Instructional Strategies
+CSCI,263,Computer Organization
+PSCI,200,History of Political Thought
+PSCI,210,Comparative Politics
+PSCI,220,Canadian Politics
+PSCI,240,Business & Government
+PSCI,250,World Politics
+PSCI,291,"""Violence"
+PSCI,292,Sel Topics: Mexican Politics
+PSCI,301,Liberalism & Its Critics
+PSCI,303,Contemp Political Arguments
+PSCI,310,European Politics
+PSCI,312,Art & Politics
+PSCI,315,Democratization Around World
+PSCI,321,Federalism
+PSCI,341,Canadian Public Administration
+PSCI,342,Canadian Public Policy
+PSCI,343,Law & Politics
+PSCI,346,Politics of Resource Mgmt
+PSCI,354,Int'l Political Economy
+PSCI,355,Global Issues
+PSCI,356,War & Peace in Middle East
+PSCI,362,Contemporary China
+PSCI,363,Japan & East Asia
+PSCI,380,African Politics & Society
+PSCI,399,Research Methods & Stats
+PSCI,401,Seminar: Political Theory
+PSCI,421,Seminar: Canadian Politics I
+PSCI,442,Seminar: Public Policy
+PSCI,452,Seminar: Comparative Politics
+PSCI,499,Directed Study
+PSYC,100,Intro Psychology
+PSYC,210,Learning
+PSYC,220,Cognitive Psychology
+PSYC,225,Sensation & Perception
+PSYC,230,Brain & Behavior
+PSYC,240,Social Psychology
+PSYC,260,Developmental Psychology
+PSYC,290,Research Methods & Statistics
+PSYC,300,History & Theory of Psychology
+PSYC,310,Health Psychology
+PSYC,341,The Self
+PSYC,345,Communication & Language
+PSYC,350,Psychology of Personality
+PSYC,360,Psychology of Gender
+PSYC,370,Abnormal Psychology
+PSYC,375,Applied Psychology
+PSYC,385,Research in Personality
+PSYC,388,Bio-psychology of Pain
+PSYC,390,Data in Psychological Research
+PSYC,391,Junior Seminar
+PSYC,420,Cognition & Perception
+PSYC,430,Behavioral Neuroscience
+PSYC,440,Adv Social & Personality Psych
+PSYC,460,Adv Developmental Psychology
+PSYC,490,Honours Thesis
+PSYC,491,Senior Seminar
+PSYC,499,Cognitive Effects Bilingualism
+RELS,100,Intro to Christianity
+RELS,110,Intro to World Religions
+RELS,120,"""Religion"
+RELS,210,The Bible and Film
+RELS,215,Sociology of Religion
+RELS,225,Cults & New Religious Movement
+RELS,253,Intro Hebrew Bible/Old Test
+RELS,255,Intro to New Testament
+RELS,275,Intro to Paul's Letters
+RELS,298,Intro to Hinduism & Buddism
+RELS,300,Health Care Ethics
+RELS,310,Religion in Modern India
+RELS,315,Women in Hinduism & Buddhism
+RELS,340,Archaeology of Anc Near East
+RELS,383,Reformation Christianity
+RELS,385,Modern Christianity
+RELS,395,Sel Topics: Intro to Mysticism
+RELS,397,Religion & the Paranormal
+RELS,398,Reflections on Death & Dying
+RELS,400,Religious Appr to Sexuality
+RELS,440,Jesus
+RELS,499,Means to Enlightenment
+SOCI,100,Intro to Sociology
+SOCI,201,Traditions in Social Thought
+SOCI,202,Research Principles & Practice
+SOCI,212,Social Dissent
+SOCI,217,"""Race"
+SOCI,226,Cults & New Religious Movement
+SOCI,227,Sociology of Religion
+SOCI,233,Sociology of Sport
+SOCI,236,Disability and Society
+SOCI,250,Deviance & Social Control
+SOCI,300,Research Methods
+SOCI,301,Classical Social Theory
+SOCI,302,Topics in Contemporary Theory
+SOCI,306,Interpretive Methods
+SOCI,310,Gender
+SOCI,311,Men & Masculinities
+SOCI,312,Social Movements
+SOCI,318,First Nations
+SOCI,320,Black & African Diaspora
+SOCI,322,The Antigonish Movement
+SOCI,325,Sociology of Mass Media
+SOCI,327,Contemporary Canadian Family
+SOCI,328,Social Inequality
+SOCI,364,Food & Development
+SOCI,400,Honours Sem & Thesis Research
+SOCI,417,Social Difference
+SOCI,421,"""Ancestry"
+SOCI,426,Consumer Society
+SOCI,491,Senior Seminar
+SOCI,497,Adv Social Theories of Self
+SOCI,498,Theories of Social Inequality
+SOCI,499,Social Theories of the Commons
+SPAN,100,First Year Spanish
+SPAN,200,Second Year Spanish
+SPAN,201,Second Year Spanish I
+SPAN,320,Hispanic Civ 1800 to Present
+STAT,201,Elementary Statistics
+STAT,224,Prob & Stats for Engineers
+STAT,231,Stats for Students in Sciences
+STAT,301,Survey Sampling Design
+STAT,331,Statistical Methods
+STAT,333,Intro Probability Theory
+STAT,334,Mathematical Statistics
+STAT,435,Regression Analysis
+WMNS,200,Intro to Women's Studies
+WMNS,217,"""Race"
+WMNS,229,Women in English Literature
+WMNS,303,Feminist Theory
+WMNS,308,Canadian Women's History
+WMNS,310,Gender
+WMNS,311,Men & Masculinities
+WMNS,315,Women in Hinduism & Buddhism
+WMNS,327,Contemporary Cdn Families
+WMNS,329,Women Writers: Feminisms
+WMNS,332,Gender Sport/Physical Activ
+WMNS,360,Psychology of Gender
+WMNS,365,Gender & Health
+WMNS,398,"""Sexuality"
+WMNS,400,Research Methods Seminar
+WMNS,410,Religious Appr to Sexuality
+WMNS,417,Social Difference
+HKIN,446,Essentials: Personal Training
+HKIN,456,Exercise & Fitness Evaluation
+HKIN,466,Clinical Exercise Physiology
+HKIN,471,Advanced Biomechanics
+HKIN,491,Senior Seminar
+HKIN,493,Honours Thesis
+HNU,145,Intro to Foods
+HNU,146,Intro to Food Science
+HNU,185,Foundation for the HNU Profess
+HNU,200,Nutrit for Healthy Lifestyle
+HNU,261,Intro to Nutrition
+HNU,262,Nutrit in Human Metabolism
+HNU,263,Applied Introductory Nutrition
+HNU,335,Communications
+HNU,361,Clinical Nutrition I
+HNU,362,Clinical Nutrition II
+HNU,363,Sport Nutrition
+HNU,365,Community Nutrition
+HNU,385,Research Methods
+HNU,405,Food Availability
+HNU,425,Geriatric Nutrition
+HNU,445,Advanced Food Study
+HNU,448,Advanced Experimental Foods
+HNU,455,Food Service Mgmt & Production
+HNU,461,Advanced Clinical Nutrition
+HNU,467,Advanced Nutrition
+HNU,471,Entrepreneurial Practices
+HNU,475,Effecting Change
+HNU,482,Internship Practicum II
+HNU,483,Internship Practicum III
+HNU,491,Advanced Major & Hon Seminar
+HNU,493,Senior Thesis (Honours)
+HNU,499,Obesity in Type 2 Diabetes
+INFO,131,Comput & Business Applications
+INFO,135,Information Systems Concepts
+INFO,145,Intro to Elect Commerce & ERP
+INFO,151,Intro to Programming Concepts
+INFO,152,Programming & Data Structures
+INFO,245,Intro Ent Resource Planning
+INFO,275,Database Management Systems
+INFO,325,Info Sys Hardware & Software
+INFO,348,Business Process Integration
+INFO,374,Geographic Info Systems
+INFO,375,Adv Database Management System
+INFO,415,Systems Analysis
+INFO,416,Project Management & Practice
+INFO,418,Topics in Information Systems
+INFO,419,Client/Server & Intranets
+INFO,425,Systems Design
+INFO,435,Introduction to Multimedia
+INFO,445,Web-Based Programming
+INFO,446,Electronic Business
+INFO,448,Impl Conf & use of ERP
+INFO,465,Bus Data Comm Sys & Networks
+INFO,496,Research Project for Majors
+INFO,498,Honours Thesis
+IDS,305,Immersion Service Learning
+IDS,306,Service Learning: Th & Prac
+LTGY,100,Liturgical Foundations
+MATH,100,Mathematical Concepts
+MATH,111,Calculus I
+MATH,112,Calculus II
+MATH,121,Calculus I for Engineers
+MATH,122,Calculus II for Engineers
+MATH,205,Business Mathematics
+MATH,221,Differential Equations for Eng
+MATH,222,Calculus III for Engineers
+MATH,223,Linear Algebra for Engineers
+MATH,253,Matrix Algebra
+MATH,254,Linear Algebra
+MATH,267,Calculus III
+MATH,277,Discrete Structures
+MATH,287,Natural Resource Modeling
+MATH,354,Modern Algebra I
+MATH,361,Advanced Vector Calculus
+MATH,366,Real Analysis I
+MATH,367,Differential Equations
+MATH,371,Modern Geometries
+MATH,372,Theory of Numbers
+MATH,384,Numerical Methods
+MATH,454,Modern Algebra II
+MATH,481,Partial Differential Equations
+MATH,491,Senior Seminar
+MATH,493,Senior Thesis (Honours)
+MUSI,101,Structure of Music
+MUSI,103,Jazz Theory I
+MUSI,106,Advanced Vocal Ensembles I
+MUSI,107,Instrumental Ensemble
+MUSI,117,History of Popular Music
+MUSI,118,World Music
+MUSI,165,Jazz Styles & Literature
+MUSI,190,Applied Performance I
+MUSI,195,Applied Performance IA
+MUSI,201,Structure of Music II
+MUSI,203,Jazz Theory & Arranging
+MUSI,206,Advanced Vocal Ensembles II
+MUSI,207,Instrumental Ensembles II
+MUSI,219,Celtic Music
+MUSI,235,Music Techonology
+MUSI,265,Jazz Styles & Literature
+MUSI,290,Applied Performance II
+MUSI,295,Applied Performance IA
+MUSI,304,Small Ensemble Arranging
+MUSI,306,Advanced Vocal Ensembles III
+MUSI,307,Instrumental Ensembles III
+MUSI,315,History of Music I
+MUSI,316,History of Music II
+MUSI,325,Jazz Composition
+MUSI,365,Jazz Syles & Literature
+MUSI,375,Contemporary Songwriting I
+MUSI,376,Contemporary Songwriting II
+MUSI,390,Applied Performance III
+MUSI,391,Minor Instrument III
+MUSI,395,Applied Performance III A
+MUSI,406,Advanced Vocal Ensembles IV
+MUSI,407,Instrumental Ensembles IV
+MUSI,416,History of Music III
+MUSI,420,Adv Arranging/Orchestration
+MUSI,465,Jazz Styles & Literature
+MUSI,490,Applied Performance IV
+MUSI,491,Minor Instrument IV
+MUSI,495,Applied Performance IV A
+MUSI,499,Advanced Orchestration
+NURS,105,Conceptual Model for Nursing
+NURS,115,Health Promotion & Learning
+NURS,125,Intro to Nursing
+NURS,145,Nursing Foundations & Health
+NURS,205,Community Health Nursing
+NURS,215,Community Mental Health I
+NURS,225,Community Parent-Child Family
+NURS,235,Intro to Pharmacology
+NURS,245,Healthy Aging
+NURS,250,Nursing Practice I
+NURS,260,Developmental Psychology
+NURS,275,Comprehensive Health Assessmnt
+NURS,280,Health Assessment & Pharmacy
+NURS,300,Research Methods
+NURS,305,Nursing of Adults I
+NURS,310,Nursing Research Methods
+NURS,315,Nursing of Children
+NURS,330,Legal & Ethical Issues
+NURS,336,Ethics in Health & Medicine
+NURS,345,Mental Health Nursing
+NURS,355,Perinatal Nursing
+NURS,365,Gender & Health
+NURS,405,Nursing Adults II
+NURS,415,Nursing Adults III
+NURS,483,Palliative Care
+NURS,486,Int'l Health & Development
+NURS,488,Challenges in Aging
+NURS,491,Trends in Health Care
+NURS,493,Leadership & Research Nursing
+NURS,496,Senior Honours Seminar
+NURS,497,Nursing Informatics
+NURS,498,Honours Thesis
+NURS,499,Directed Study & Practice
+PHIL,100,Intro Philosophy
+PHIL,101,Intro Philosophy I
+PHIL,210,Philosophy of Science
+PHIL,230,Philosophy of Human Nature
+PHIL,240,Philosophy of Religion
+PHIL,330,Ethics
+PHIL,331,Ethical Theories
+PHIL,332,Contemp Moral & Social Issues
+PHIL,336,Ethics in Health & Medicine
+PHIL,340,Logic
+PHIL,351,Socrates and Plato
+PHIL,352,Aristotle
+PHIL,371,Social & Political Philosophy
+PHIL,372,Philosophy of Law
+PHIL,380,Existentialism & Phenomenology
+PHIL,399,Topics in Modern Philosophy
+PHIL,460,Sem Metaphysics & Epistemology
+PHIL,489,Honours Thesis
+PHYS,100,General Physics
+PHYS,120,General Physics
+PHYS,201,Relativity & Quantum Physics
+PHYS,221,Electric Circuits
+PHYS,223,Digital Electronics
+PHYS,241,Mathematical Physics
+PHYS,242,Classical Mechanics I
+PHYS,271,Astronomy: Solar System
+PHYS,302,Properties of Matter
+PHYS,303,Subatomic Physics & Cosmology
+PHYS,322,Electromagnetic Theory I
+PHYS,323,Electronics
+PHYS,325,Optics
+PHYS,343,Quantum Mechanics I
+PHYS,344,Thermal Physics
+PHYS,422,Electromagnetic Theory II
+PHYS,425,Lasers & Modern Optics
+PHYS,443,Quantum Mechanics II
+PHYS,444,Statistical Mechanics
+PHYS,473,Soft Material & Biophysics
+PHYS,475,Atomic & Molecular Physics
+PHYS,476,Solid State Physics
+PHYS,491,Physics Seminar
+PHYS,493,Honours Thesis
+PSCI,100,Intro Politics Power & Culture
+CSCI,368,Data Comm Systems & Networks
